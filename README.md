@@ -1,2 +1,2 @@
-My profile page is moved to a new URL. <br>
+My profile page moved to a new URL. <br>
 ### Visit 🔗https://github.com/rs-prasad
